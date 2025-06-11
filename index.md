@@ -32,7 +32,7 @@ _Kenyatta University_, Nairobi, Kenya
 
 ## 💼 Work Experience
 
-**ICT Volunteer **  
+ICT Volunteer  
 _Kenya Cultural Center_ – Nairobi  
 _Jan 2025 – Present_  
 - Installing, updating, and maintaining the operating systems and core applications.
