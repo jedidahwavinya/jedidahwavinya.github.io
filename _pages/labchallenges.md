@@ -1,5 +1,8 @@
-## 🧪 Lab Challenges
-
+---
+permalink: /labchallenges/
+title: "Lab Challenges"
+layout: single
+author_profile: true
 ---
 
 ### 🎬 Netflix Dataset – Data Wrangling & Analysis
