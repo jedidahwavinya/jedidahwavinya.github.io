@@ -3,7 +3,7 @@
 layout: single
 author_profile: true
 ---
-
+---
 # Jedidah Wavinya- CV
 
 **Mathematics & Computer Science Graduate**  
@@ -24,7 +24,6 @@ Motivated and versatile ICT professional seeking to grow a career at the interse
 ICT Volunteer  
 _Kenya Cultural Center_ – Nairobi  
 _Jan 2025 – Present_  
-  ***CORE TASKS:
 - Installing, updating, and maintaining the operating systems and core applications.
 - Providing technical support for software applications used within the organization.
 - Diagnosing and resolving technical problems.
@@ -50,8 +49,8 @@ and coordinating client meetings.
 
 ---
 **JUNIOR DEVELOPER**
-_FINETEK TECHNOLOGIES_ - Nairobi
-_APRIL 2021 – FEBRUARY 2022_
+_Finetek Technologies_ – Nairobi  
+_APRIL 2021 – FEBRUARY 2022_  
 - Front-end development: building and styling user interfaces using html, CSS, JavaScript 
 - Version control: using git and GitHub for collaboration, code reviews, and version 
 tracking. 
@@ -59,7 +58,7 @@ tracking.
 ## 🎓 Education
 
 **Bachelor of Science in Mathematics and Computer Science**  
-_Kenyatta University_, Nairobi, Kenya
+_Kenyatta University_, Nairobi, Kenya  
 _SEPTEMBER 2019- DECEMBER 2023_ 
 **Year of Graduation**: 2024 
 
