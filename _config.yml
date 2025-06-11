@@ -12,7 +12,7 @@ github_username: jedidahwavinya
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
