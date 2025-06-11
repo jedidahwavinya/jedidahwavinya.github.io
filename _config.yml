@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Jedidah Wavinya
+email: wavinyajedidah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   I am a passionate and detail-oriented ICT professional with a background in Mathematics and Computer Science. 
+   I have hands-on experience in data analysis, digital marketing, and software support, and I enjoy solving real-world problems using technology. 
+   I'm always eager to learn, collaborate, and grow in roles that combine creativity, logic, and impact.
 twitter_username: username
-github_username: username
+github_username: jedidahwavinya
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Jedidah Wavinya"
+  avatar : "/assets/images/OLE_0058.jpg"
+  bio    : "Data analysis, Digital Marketing and Entrepreneurship."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,7 +73,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/_.wavinya._"
 
 footer:
   links:
@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/_.wavinya._"
 
 defaults:
   # _posts
