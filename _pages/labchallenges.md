@@ -71,7 +71,7 @@ How can data dashboards improve operational decision-making in hospitality?
 - Power BI enhances stakeholder communication  
 - BI tools simplify complex KPIs tracking
 
-📄 [**Download Report (PDF)**](/assets/reports/hotel-bi-report.pdf)  
+📄 [**Download Report (PDF)**](/assets/hotel-bi-report.pdf)  
 🔗 [**View the file on Drive**](https://drive.google.com/file/d/1U7hRPGJVLRrHJ1Wx5tkd4o9P5e1FIXva/view?usp=sharing))  
 <!-- ![Hotel BI Project](../assets/images/hotel-bi.png) -->
 
