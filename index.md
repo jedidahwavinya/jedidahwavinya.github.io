@@ -6,10 +6,7 @@ layout: splash
 author_profile: true
 ---
 ---
-title: " Curriclum Vitae - Jedidah Wavinya"
-layout: single
-permalink: /cv/
-author_profile: true
+ Curriclum Vitae - Jedidah Wavinyae
 ---
 
 # Jedidah Wavinya
