@@ -16,15 +16,15 @@ How can we extract meaningful insights from raw Netflix content data to understa
 - Analyzed distributions of genres, ratings, and release years
 
 **Tools Used:**  
-`Python`, `Pandas`, `Jupyter Notebook`, `Matplotlib`, `Seaborn`
+`Python`, `Pandas`, `Jupyter Notebook`
 
 **Key Lessons Learned:**  
 - Data cleaning is foundational for analysis  
 - Visual storytelling enhances insight delivery  
 - Real-world datasets often require reshaping and refinement
 
-📄 [**Download Report (PDF)**](/assets/reports/netflix-report.pdf)  
-🔗 [**View Project on GitHub**](https://github.com/yourusername/netflix-data-wrangling)  
+📄 [**Download Report (PDF)**](/assets/netflix-report.pdf)  
+🔗 [**View Project on Kaggle Notebooks**](https://www.kaggle.com/code/jedidahwavinya/netflix-figures))  
 <!-- ![Netflix Project](../assets/images/netflix-project.png) -->
 
 ---
@@ -47,8 +47,8 @@ What factors influenced passenger survival on the Titanic?
 - Simple visualizations can communicate complex insights effectively  
 - Data-driven hypotheses are critical before modeling
 
-📄 [**Download Report (PDF)**](/assets/reports/titanic-eda-report.pdf)  
-🔗 [**View Project on Kaggle**](https://www.kaggle.com/yourusername/titanic-eda)  
+📄 [**Download Report (PDF)**](/assets/titanic-eda-report.pdf)  
+🔗 [**View Project on Kaggle Notebook**](https://www.kaggle.com/code/jedidahwavinya/titanic-case-studyeda))  
 <!-- ![Titanic Project](../assets/images/titanic-eda.png) -->
 
 ---
@@ -72,7 +72,7 @@ How can data dashboards improve operational decision-making in hospitality?
 - BI tools simplify complex KPIs tracking
 
 📄 [**Download Report (PDF)**](/assets/reports/hotel-bi-report.pdf)  
-🔗 [**View Interactive Dashboard**](https://link-to-dashboard.com)  
+🔗 [**View the file on Drive**](https://drive.google.com/file/d/1U7hRPGJVLRrHJ1Wx5tkd4o9P5e1FIXva/view?usp=sharing))  
 <!-- ![Hotel BI Project](../assets/images/hotel-bi.png) -->
 
 ---
