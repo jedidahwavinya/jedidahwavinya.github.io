@@ -17,14 +17,14 @@ classes: wide
 - **Email**: [wavinyajedidah@gmail.com](mailto:wavinyajedidah@gmail.com)  
 - **GitHub**: [@jedidahwavinya](https://github.com/jedidahwavinya)  
 - **Instagram**: [@_.wavinya._](https://instagram.com/_.wavinya._)  
-- **Location**: Kenya  
-- **Phone**: [Insert your number here]
+- **Location**: Nairobi, Kenya  
+- **Phone**: 0745456152
 
 ---
 
 ## 🧭 Professional Summary
 
-I am a passionate and detail-oriented ICT professional with a background in Mathematics and Computer Science. I have hands-on experience in:
+I am a passionate and detail-oriented professional with a background in Computer Science. I have hands-on experience in:
 
 - Data analysis  
 - Digital marketing  
@@ -37,7 +37,7 @@ I thrive in roles that combine creativity, logic, and impact. I enjoy solving re
 ## 🎓 Academic Background
 
 **Bachelor of Science in Mathematics and Computer Science**  
-*University Name* — *Year of Graduation*
+*Kenyatta University* — *2024*
 
 - Core Courses: Algorithms, Data Structures, Calculus, Database Management, Networking, Software Engineering, Web Development  
 - Projects: Data visualization, website prototypes, machine learning model
@@ -47,7 +47,7 @@ I thrive in roles that combine creativity, logic, and impact. I enjoy solving re
 ## 💼 Work Experience
 
 ### 📍 ICT Volunteer – Kenya Cultural Centre  
-*Dates: Month Year – Present*
+*January 2025 – Present*
 
 - Provided technical support to departments, including software installation and troubleshooting  
 - Assisted in maintaining computer networks and hardware systems  
@@ -56,7 +56,7 @@ I thrive in roles that combine creativity, logic, and impact. I enjoy solving re
 ---
 
 ### 📍 Digital Marketing Intern – Robisearch Limited  
-*Dates: Month Year – Month Year*
+*January 2024 – July 2024*
 
 - Developed and executed digital marketing strategies (email campaigns, content marketing, social media)  
 - Created content for blogs and social platforms, boosting traffic and engagement  
@@ -66,18 +66,18 @@ I thrive in roles that combine creativity, logic, and impact. I enjoy solving re
 
 ## 📜 Certifications
 
-- ✅ **Digital Marketing Certification** – Google, *Year*  
-- ✅ **Google Analytics Certification** – *Year*  
-- ✅ **Web Development** – Zalego Institute of Technology, *Year*  
-- ✅ **Python Programming** – Zalego Institute of Technology, *Year*  
-- ✅ **Java Development (Android Studio)** – Zalego Institute of Technology, *Year*  
+- ✅ **Digital Marketing Certification** – HP Life Online course, *2025*    
+- ✅ **Web Development** – Zalego Institute of Technology, *2019*  
+- ✅ **Python Programming** – Zalego Institute of Technology, *2019*  
+- ✅ **Java Development (Android Studio)** – Zalego Institute of Technology, *2019*
+- ✅ **Data Science and Analytics** - HP Life Online course, *2025*
 
 ---
 
 ## 🛠 Skills
 
 ### Programming Languages:
-- `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `SQL`
+- `Python`, `Java`, `HTML`, `CSS`, `SQL`
 
 ### Tools & Platforms:
 - Git & GitHub  
@@ -118,8 +118,8 @@ I thrive in roles that combine creativity, logic, and impact. I enjoy solving re
 
 ## 🌍 Languages
 
-- **English** – Fluent  
-- **Swahili** – Fluent
+- **English**   
+- **Swahili**
 
 ---
 
