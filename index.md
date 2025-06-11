@@ -7,7 +7,7 @@ author_profile: true
 ---
 ---
 
-# Jedidah Wavinya
+# Jedidah Wavinya- CV
 
 **Mathematics & Computer Science Graduate**  
 Nairobi, Kenya  
