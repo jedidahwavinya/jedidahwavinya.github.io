@@ -40,7 +40,7 @@ When I'm not coding, I’m probably making handmade mats, taking aesthetic photo
 
 Love collaborating, chatting about tech, or need a dedicated intern or junior dev? Let’s talk.
 
-* 📧 Email: [wavinyajedidah@gmail.com](wavinyajedidah@gmail.com)
+* 📧 Email:[wavinyajedidah@gmail.com](mailto:wavinyajedidah@gmail.com)  
 * 💼 LinkedIn: [Jedidah Wavinya](https://www.linkedin.com/in/jedidahwavinya)
 * 💻 GitHub: [@jedidahwavinya](https://github.com/jedidahwavinya)
 * 📸 Instagram: [@*.wavinya.*](https://instagram.com/_.wavinya._)
