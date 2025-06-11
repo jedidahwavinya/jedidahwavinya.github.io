@@ -47,7 +47,7 @@ author:
      # url: "https://"
     - label: "LinkedIn"
       icon:  "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/jedidahwavinya"
+      url: "https://www.linkedin.com/in/jedidahwavinya/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jedidahwavinya"
@@ -58,9 +58,12 @@ author:
 # Footer links
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jedidahwavinya/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jedidahwavinya"
