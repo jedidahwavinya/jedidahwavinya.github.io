@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 ---
- Curriclum Vitae - Jedidah Wavinya
----
 
 # Jedidah Wavinya
 
