@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    I'm always eager to learn, collaborate, and grow in roles that combine creativity, logic, and impact.
 twitter_username: username
 github_username: jedidahwavinya
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default
 search: true
 
