@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jedidah Wavinya
+title: Jedidah Wavinya Portfolio
 email: wavinyajedidah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    I am a passionate and detail-oriented ICT professional with a background in Mathematics and Computer Science. 
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: jedidahwavinya
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -61,14 +61,14 @@ plugins:
 author:
   name   : "Jedidah Wavinya"
   avatar : "/assets/images/OLE_0058.jpg"
-  bio    : "Data analysis, Digital Marketing and Entrepreneurship."
+  bio    : "Data analysist, Digital Marketing and Entrepreneurship."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jedidahwavinya"
