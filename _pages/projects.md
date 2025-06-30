@@ -44,3 +44,20 @@ Developed an interactive Power BI dashboard for hotel business data to analyze b
 🔗 [View Project on Drive](https://drive.google.com/file/d/1U7hRPGJVLRrHJ1Wx5tkd4o9P5e1FIXva/view?usp=sharing)
 
 ---
+## 📊 Linear Regression Model – Data Science Mini Project
+
+This project explores the basics of **linear regression** using Python and Scikit-learn. It demonstrates the complete data science workflow:
+
+- ✅ Loaded and explored the dataset using visual tools like scatter plots  
+- ✅ Cleaned the data and handled missing values  
+- ✅ Split the data into training and test sets  
+- ✅ Built a linear regression model  
+- ✅ Evaluated performance using metrics like MAE and MSE  
+- ✅ Visualized predictions to interpret model accuracy
+
+This hands-on project helped me strengthen my understanding of supervised machine learning and data preprocessing.
+
+🔗 [Check out my portfolio website](https://jedidahwavinya.github.io/)  
+🔗 [View the full project on Google Colab](https://colab.research.google.com/drive/11NbsIoB2ro_nXrwWt6RF2ACv-FZ8aPml?usp=sharing)
+
+---
