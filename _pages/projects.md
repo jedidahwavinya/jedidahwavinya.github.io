@@ -60,52 +60,18 @@ This hands-on project helped me strengthen my understanding of supervised machin
 🔗 [View the full project on Google Colab](https://colab.research.google.com/drive/11NbsIoB2ro_nXrwWt6RF2ACv-FZ8aPml?usp=sharing)
 
 ---
-## 🍷 Wine Classification using Supervised Machine Learning
+## 🧠 Supervised Machine Learning Classification Project
 
-This project demonstrates my understanding of **supervised machine learning classification** models using the classic **Wine dataset** from Scikit-learn. The goal is to explore the data, visualize key patterns, train multiple classifiers, and compare their performance to determine the most effective model.
+In this project, I applied my understanding of supervised machine learning classification by building and evaluating multiple models using the **Wine dataset** from Scikit-learn. The key steps included:
 
-## 🔍 Project Overview
+- 🔍 **Exploratory Data Analysis (EDA)** to understand feature relationships and class distributions.
+- 🧪 **Data Splitting** into training and test sets for proper model evaluation.
+- 🤖 **Model Training** on six classifiers: Logistic Regression, Decision Tree, Random Forest, k-Nearest Neighbors (KNN), Naive Bayes, and Support Vector Machine (SVM).
+- 📊 **Performance Evaluation** using accuracy, precision, recall, F1-score, and confusion matrices.
+- 🏆 **Model Comparison** to identify the best-performing algorithm based on test results.
 
-- **Dataset**: Wine Dataset (Scikit-learn)
-- **Type**: Supervised Classification
-- **Target**: Predict wine class (0, 1, or 2) based on chemical features
+> 📌 **Goal:** To compare the effectiveness of different classification algorithms and interpret which model performs best and why.
 
-## 📊 Models Implemented
-
-Six different classification algorithms were trained and evaluated:
-
-- ✅ Logistic Regression  
-- 🌳 Decision Tree  
-- 🌲 Random Forest  
-- 👥 k-Nearest Neighbors (KNN)  
-- 🧮 Naive Bayes  
-- ➗ Support Vector Machine (SVM)
-
-## 🧪 Key Tasks Performed
-
-- Performed **Exploratory Data Analysis (EDA)** to understand feature relationships and class distributions
-- Split data into **training** and **testing** sets
-- Built and trained all six models using **Scikit-learn**
-- Evaluated model performance using:
-  - **Accuracy**
-  - **Precision**
-  - **Recall**
-  - **F1-Score**
-  - **Confusion Matrix**
-- Compared results to determine the **best-performing model**
-
-## 📈 Tools & Libraries
-
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn
-
-## 📌 Conclusion
-
-After analyzing the evaluation metrics across all models, I was able to determine which model generalized best on unseen data and offered the best balance of precision and recall. This hands-on experience strengthened my understanding of classification algorithms and model evaluation techniques.
-
-
-🔗 [Click here to view the full project notebook](https://colab.research.google.com/drive/1MW8CyaOXY-e2IAqLv1cNeHTXcB3DmLNS?usp=sharing)
+Explore the full project and notebook [here](https://colab.research.google.com/drive/1MW8CyaOXY-e2IAqLv1cNeHTXcB3DmLNS?usp=sharing)
 
 ---
