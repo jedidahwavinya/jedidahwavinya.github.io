@@ -75,3 +75,23 @@ In this project, I applied my understanding of supervised machine learning class
 Explore the full project and notebook [here](https://colab.research.google.com/drive/1MW8CyaOXY-e2IAqLv1cNeHTXcB3DmLNS?usp=sharing)
 
 ---
+## 🔍 Customer Churn Prediction
+
+Can we predict which customers are about to leave?  
+Yes — with **machine learning**! 🤖
+
+### 🚀 What I Did
+- Cleaned and explored telecom customer data 📊  
+- Trained & tested 6 ML models (Random Forest & SVM were 🔥)  
+- Evaluated using precision, recall & F1-score
+
+### 🛠 Tech Stack
+Python, Scikit-learn, Pandas, Seaborn, Google Colab
+
+### 📎 Project Link
+[🔗 View on Colab](https://colab.research.google.com/drive/1-GBa-LyjiyOL1Xc2kOnDyxEu0Kttz8uL?usp=sharing)
+
+### 💡 Key Takeaway
+Customer behavior tells a story.  
+ML helps businesses listen 👂📈
+
