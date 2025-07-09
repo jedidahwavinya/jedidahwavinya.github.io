@@ -90,6 +90,8 @@ Python, Scikit-learn, Pandas, Seaborn, Google Colab
 
 ### 📎 Project Link
 [🔗 View on Colab](https://colab.research.google.com/drive/1-GBa-LyjiyOL1Xc2kOnDyxEu0Kttz8uL?usp=sharing)
+[🔗 View on Kaggle](https://www.kaggle.com/code/jedidahmusyoka/customer-churn-prediction)
+
 
 ### 💡 Key Takeaway
 Customer behavior tells a story.  
