@@ -4,10 +4,6 @@ title: "Blogs"
 layout: single
 author_profile: true
 ---
----
-layout: default
-title: Blog
----
 
 <div style="text-align: center; padding: 50px;">
 
@@ -22,6 +18,5 @@ title: Blog
     Click Me for a Sneak Peek!
   </button>
 
-  <p style="margin-top: 30px; color: #999;">Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
 
 </div>
