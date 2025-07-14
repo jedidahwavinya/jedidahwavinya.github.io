@@ -96,4 +96,26 @@ Python, Scikit-learn, Pandas, Seaborn, Google Colab
 ### 💡 Key Takeaway
 Customer behavior tells a story.  
 ML helps businesses listen 👂📈
+---
+
+# 🛠️ MLOps Regression Pipeline with FastAPI
+
+This project showcases a complete MLOps workflow where I built, tuned, evaluated, and deployed a regression model using the K-Nearest Neighbors algorithm. The goal was to apply best practices in machine learning engineering to create a scalable, reproducible, and production-ready model pipeline.
+
+## 🔍 Project Highlights
+
+- ✅ **Data Preprocessing**: Cleaned and standardized the dataset using `pandas` and `scikit-learn`
+- 🤖 **Modeling**: Trained a `KNeighborsRegressor` with hyperparameter tuning using `GridSearchCV`
+- 📈 **Evaluation**: Used R² Score and 5-fold cross-validation to assess performance
+- 🧪 **Model Persistence**: Saved the trained model with `joblib` for reuse
+- 🚀 **Deployment**: Exposed the model as a REST API using `FastAPI` and tested it locally with `Uvicorn`
+
+## 📦 Tech Stack
+
+- Python, scikit-learn, pandas, FastAPI, Uvicorn, joblib, GridSearchCV, Pydanti
+
+### 📎 Project Link
+
+  [🔗 View on Colab](https://colab.research.google.com/drive/1vkwaKPYmsklSVPWIxWQdtc7BmvPE_asW?usp=sharing)
+---
 
