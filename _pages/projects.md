@@ -96,6 +96,7 @@ Python, Scikit-learn, Pandas, Seaborn, Google Colab
 ### 💡 Key Takeaway
 Customer behavior tells a story.  
 ML helps businesses listen 👂📈
+
 ---
 
 # 🛠️ MLOps Regression Pipeline with FastAPI
@@ -117,5 +118,6 @@ This project showcases a complete MLOps workflow where I built, tuned, evaluated
 ### 📎 Project Link
 
   [🔗 View on Colab](https://colab.research.google.com/drive/1vkwaKPYmsklSVPWIxWQdtc7BmvPE_asW?usp=sharing)
+  
 ---
 
