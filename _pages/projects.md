@@ -123,11 +123,7 @@ This project showcases a complete MLOps workflow where I built, tuned, evaluated
 
 # 🧠 Artificial Neural Network (ANN) Image Classifier
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ANN-orange?style=flat-square&logo=tensorflow)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/ann_image_classifier.ipynb)
-
----
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_SbMdaxfJKi1nHner1zzfGaKtz6F33G6?usp=sharing)
 
 ## 🚀 Project Goal
 Build and train an Artificial Neural Network (ANN) model from scratch to accurately classify grayscale images from the **MNIST dataset** of handwritten digits (0–9).
@@ -141,5 +137,4 @@ Build and train an Artificial Neural Network (ANN) model from scratch to accurat
 - **Format**: Grayscale
 
 ---
-## ⚙️ Workflow Summary
-```mermaid
+
