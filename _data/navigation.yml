@@ -5,6 +5,8 @@ main:
     url: /projects/
   - title: "Lab Challenges"
     url: /labchallenges/
+  - title: "Marketing"
+    url: /marketing/
   - title: "Blogs"
     url: /Blogs/
   - title: "About"
