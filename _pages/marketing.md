@@ -1,3 +1,9 @@
+---
+permalink: /marketing/
+title: "Marketing"
+layout: single
+author_profile: true
+---
 # 🌟 Welcome to My Marketing Portfolio
 
 Hi there! I'm **Jedidah Wavinya**, a creative and data-driven marketing enthusiast passionate about connecting brands to people through engaging content, strategic storytelling, and digital innovation.
