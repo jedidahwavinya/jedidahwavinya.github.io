@@ -75,9 +75,9 @@ Let’s grow together!
 Follow my creative and professional journey here:
 
 - 📸 [Instagram](https://instagram.com/_.wavinya._) – Content, Reels & Personal Branding  
-- 💼 [LinkedIn](https://linkedin.com/in/jedidhwavinya) – Professional profile and updates  
-- 📝 [Blog/Medium](https://medium.com/@yourusername) – Articles, tips & thought leadership  
-- 🌐 [Website/Portfolio](https://jedidahwavinya.github.io/)
+- 💼 [LinkedIn](https://linkedin.com/in/jedidahwavinya) – Professional profile and updates  
+- 📝 [Blog/Medium](https://jedidahwavinya.github.io/Blogs/) – Articles, tips & thought leadership  
+- 🌐 [Portfolio Website](https://jedidahwavinya.github.io/)- My Portfolio
 
 ---
 
