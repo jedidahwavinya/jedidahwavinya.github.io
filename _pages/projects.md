@@ -137,4 +137,22 @@ Build and train an Artificial Neural Network (ANN) model from scratch to accurat
 - **Format**: Grayscale
 
 ---
+## BERT Sentence Similarity (NLP Project)
+
+This project uses a pre-trained **BERT model** to measure **semantic similarity** between sentence pairs using **contextual embeddings** and **cosine similarity**.
+
+### 🔍 Key Features
+- Extracted `[CLS]` token embeddings with Hugging Face Transformers.
+- Compared 10 sentence pairs using cosine similarity.
+- Predicted similarity using a 0.7 threshold.
+- Evaluated accuracy against manually labeled ground truth.
+
+### 🛠️ Tools
+- Python, PyTorch, Hugging Face Transformers, Scikit-learn
+
+### 💡 Takeaway
+BERT outperforms traditional methods by understanding **word meaning in context**, making it ideal for tasks like semantic similarity, sentiment analysis, and question answering.
+
+📎 [View Full Code](https://colab.research.google.com/drive/1IwizAYfhwRHcb8m8qVUbtJqfsYS6ZUtJ?usp=sharing)
+
 
