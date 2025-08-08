@@ -155,4 +155,17 @@ BERT outperforms traditional methods by understanding **word meaning in context*
 
 📎 [View Full Code](https://colab.research.google.com/drive/1IwizAYfhwRHcb8m8qVUbtJqfsYS6ZUtJ?usp=sharing)
 
+---
+
+## 🧠 Generative AI + RAG Project
+A Retrieval-Augmented Generation pipeline that:
+- Extracts and chunks PDF text
+- Creates embeddings with Sentence-Transformers
+- Stores in FAISS
+- Retrieves context for accurate LLM answers
+
+[![Open in Colab](https://colab.research.google.com/drive/1bCAhB8npc6afpN5dKc14CmmHmAkWx3zP?usp=sharing)] 
+📄 [View PDF](<<PDF_LINK>>) | 📂 [Source Code](https://github.com/jedidahwavinya/Generative_AI/blob/main/Faras_ride.pdf)
+
+---
 
