@@ -1,4 +1,6 @@
-## 🕸️ Web Scraping Project #1 – "Scrape This Site" Forms Page
+---
+
+# 🕸️ Web Scraping Project #1 – "Scrape This Site" Forms Page
 
 **Overview:**  
 This was my **first** hands-on web scraping project, where I set out to build a Python-based solution capable of **navigating a webpage**, **extracting structured table data**, and saving it into a clean, analysis-ready spreadsheet.  
@@ -25,15 +27,11 @@ This was my **first** hands-on web scraping project, where I set out to build a 
 4. **Data Cleaning:** Remove inconsistencies for uniform formatting.  
 5. **Save Results:** Export final dataset to CSV/Excel for further analysis.  
 
-**Sample Output:**  
-| Team Name           | Year | Wins | Losses | OT Losses | Win % | Goals For | Goals Against | + / - |
-|---------------------|------|------|--------|-----------|-------|-----------|---------------|-------|
-| Boston Bruins       | 1990 | 44   | 24     | 12        | 0.61  | 299       | 264           | +35   |
-| Chicago Blackhawks  | 1990 | 49   | 23     | 8         | 0.66  | 284       | 211           | +73   |
-| ...                 | ...  | ...  | ...    | ...       | ...   | ...       | ...           | ...   |
-
 📂 **Colab Notebook:**  
 [▶ Open in Google Colab](https://colab.research.google.com/drive/1MkBh0lAY3_n9aZcyuKesQRCM3gIt3INr?usp=sharing)
 
 
 💡 *Being my first web scraping project, this one holds a special place — it was where I learned how to navigate complex HTML structures, automate data extraction, and prepare results for real-world use.*  
+
+---
+
