@@ -8,7 +8,7 @@ author_profile: true
 ## 🧹 Data Wrangling Project #1 – Netflix Dataset (Kaggle)
 
 **Overview:**  
-This was my **first** data wrangling project, where I explored, cleaned, and transformed the popular **Netflix Movies & TV Shows** dataset from Kaggle to prepare it for analysis and visualization.  
+This was my **first** data wrangling project, where I cleaned and wrangled the Netflix Movies and TV Shows dataset to uncover insights such as content trends, release patterns, and rating distributions. Focused on data preprocessing and storytelling. 
 
 **Dataset:**  
 - 📊 **Source:** [Netflix Movies & TV Shows – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)  
@@ -22,7 +22,10 @@ This was my **first** data wrangling project, where I explored, cleaned, and tra
   - Parsing and standardizing **date formats**.  
   - Splitting and normalizing multi-valued fields (e.g., genres, countries).  
   - Removing duplicates and irrelevant entries.  
-  - Preparing cleaned data for further analysis and dashboards.  
+  - Preparing cleaned data for further analysis and dashboards.
+  
+**Tools & Technologies:**  
+`Python`, `Pandas`, `NumPy`, `Jupyter Notebook`
 
 **Workflow Overview:**  
 1. **Load Dataset:** Import Netflix CSV file from Kaggle.  
