@@ -21,7 +21,7 @@ Motivated and versatile ICT professional seeking to grow a career at the interse
 
 ## 💼 Work Experience
 
-ICT Volunteer  
+ICT Assistant 
 _Kenya Cultural Center_ – Nairobi  
 _Jan 2025 – Present_  
 - Installing, updating, and maintaining the operating systems and core applications.
@@ -35,14 +35,14 @@ _Jan 2025 – Present_
 - Document IT processes and procedures.
 
 ---
-**ICT Intern**  
+**Digital Marketing Intern**  
 _Robisearch Limited-Intern_ – Nairobi  
 _Jan 2024 – August 2024_  
 - Developed and scheduled weekly social media content, increasing online engagement by 
 30%. 
 - Researched and presented competitor analysis reports to guide digital marketing 
 strategy. 
-- Assisted in creating targeted email marketing campaigns using ZOHO CRM, improving 
+- Assisted in creating targeted email marketing campaigns, improving 
 open rates by 20%.
 - Supported administrative tasks such as drafting invoices, updating customer databases, 
 and coordinating client meetings. 
@@ -60,17 +60,16 @@ tracking.
 **Bachelor of Science in Mathematics and Computer Science**  
 _Kenyatta University_, Nairobi, Kenya  
 _SEPTEMBER 2019- DECEMBER 2023_ 
+
 **Year of Graduation**: 2024 
 
-
 ---
-
 
 
 ## 🧰 Skills
 
 - Programming: Python, HTML, CSS, JavaScript  
-- Data Analysis: Power BI, Excel, Pandas  
+- Data Analysis: Power BI, Excel, Pandas, Machine learning
 - CMS: WordPress, GitHub Pages  
 - Version Control: Git, GitHub  
 - Operating Systems: Windows, Linux
@@ -80,14 +79,16 @@ _SEPTEMBER 2019- DECEMBER 2023_
 
 ## 🧪 Projects
 
-**Titanic Survival EDA Case Study**  
-- Performed exploratory data analysis on Titanic dataset using Python (Pandas, Seaborn, Matplotlib).  
-- Generated actionable insights on survival rates by gender, age, and class.
+Find all projects in this website: 
+🔗 [Portfolio Projects](/projects.md)
+
+[![View Projects on GitHub](https://github.com/jedidahwavinya)
 
 
 ## 📜 Certifications
 
-- Google Data Analytics Certificate – Coursera  
+- Google Data Analytics Certificate – Coursera
+- Data & AI specialization - Cyber Shujaa
 - Social Media Marketing  - HP life
 - Customer Relationship Management - HP life   
 
