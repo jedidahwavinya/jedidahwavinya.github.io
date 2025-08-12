@@ -80,9 +80,9 @@ _SEPTEMBER 2019- DECEMBER 2023_
 ## 🧪 Projects
 
 Find all projects in this website: 
-🔗 [Portfolio Projects](/projects.md)
+🔗 [Portfolio Projects](_pages/projects.md)
 
-[![View Projects on GitHub](https://github.com/jedidahwavinya)
+🔗 [View Projects on GitHub](https://github.com/jedidahwavinya)
 
 
 ## 📜 Certifications
