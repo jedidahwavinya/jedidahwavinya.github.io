@@ -10,6 +10,7 @@ author_profile: true
 
 **Overview:**  
 My **first** Business Intelligence project focused on creating an interactive dashboard for a hotel business to analyze booking trends, revenue, customer behavior, and operational performance.
+
 **Goal:**  
 Provide a **centralized view** of hotel performance, occupancy rates, and revenue trends to support data-driven decision-making.
 
