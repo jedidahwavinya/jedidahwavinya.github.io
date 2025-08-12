@@ -49,6 +49,30 @@ This hands-on project helped me strengthen my understanding of supervised machin
 🔗 [View the full project on Google Colab](https://colab.research.google.com/drive/11NbsIoB2ro_nXrwWt6RF2ACv-FZ8aPml?usp=sharing)
 
 ---
+## 🤖 Project #3 – Customer Churn Prediction (Logistic Regression)
+
+**Overview:**  
+Built a **Customer Churn Prediction model** using **Logistic Regression** to identify customers likely to leave a subscription/service, enabling proactive retention strategies.
+
+**Dataset:**  
+- 📊 Source: Kaggle telecom churn dataset.  
+
+**Key Tasks:**  
+- Data preprocessing: handled missing values, encoded categorical features, and scaled numerical data.  
+- Explored churn patterns via EDA.  
+- Trained & evaluated Logistic Regression model.  
+- Measured performance with accuracy, precision, recall, and ROC-AUC.  
+
+**Tools:**  
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+**Links:**  
+- 📂 [Google Colab Notebook](https://colab.research.google.com/drive/1-GBa-LyjiyOL1Xc2kOnDyxEu0Kttz8uL?usp=sharing)  
+- 📊 [Kaggle Notebook](https://www.kaggle.com/code/jedidahmusyoka/customer-churn-prediction)  
+- 🎥 [YouTube Reference](https://youtu.be/MSBY28IJ47U)  
+
+---
+
 🔙 [**Back to Projects Categories**](/projects.md)
 
 ---
