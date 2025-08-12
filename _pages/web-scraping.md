@@ -1,4 +1,10 @@
 ---
+layout: single
+title: "Web scraping"
+permalink: /web-scraping/
+author_profile: true
+---
+---
 
 ## 🕸️ Web Scraping Project #1 – "Scrape This Site" Forms Page
 
