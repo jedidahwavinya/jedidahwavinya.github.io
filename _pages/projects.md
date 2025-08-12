@@ -13,7 +13,7 @@ Each category opens a dedicated page with detailed descriptions and links to my 
 
 ---
 
-## 🌐 [Web Scraping & Data Collection](_pages/web-scraping.md)
+## 🌐 [Web Scraping & Data Collection](/web-scraping.md)
 Automating **data gathering** from the internet.  
 *Examples:* Jumia product scrapers, social media monitoring tools.
 
