@@ -38,10 +38,36 @@ This was my **first** hands-on web scraping project, where I set out to build a 
 
 💡 *Being my first web scraping project, this one holds a special place — it was where I learned how to navigate complex HTML structures, automate data extraction, and prepare results for real-world use.*  
 
+## 🕸️ Web Scraping Project #2 – Largest U.S. Companies by Revenue
+
+**Overview:**  
+Scraped tabular data from **Wikipedia**’s *List of largest companies in the United States by revenue* to collect business information for analysis.
+
+**Target URL:**  
+[Wikipedia – Largest Companies in the U.S. by Revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)  
+
+**Data Extracted:**  
+- Rank  
+- Name  
+- Industry  
+- Revenue (USD millions)  
+- Revenue growth  
+- Employees  
+- Headquarters  
+
+**Key Tasks:**  
+- Retrieved HTML table using **Requests** and **BeautifulSoup**.  
+- Parsed and structured the dataset with **Pandas**.  
+- Exported clean data to **CSV** for further analysis.  
+
+**Tools:**  
+Python, BeautifulSoup, Requests, Pandas  
+
+📂 **Colab Notebook:**  
+[▶ Open in Google Colab](https://colab.research.google.com/drive/1lF3hQ3bzoS6ymfLodDtCCjDWNG_8_hlN?usp=sharing) 
+
 ---
 
 🔙 [**Jump Back to Projects Categories**](/projects.md)
 
-
 ---
-
