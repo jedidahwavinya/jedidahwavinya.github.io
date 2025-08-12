@@ -43,3 +43,9 @@ This was my **first** data wrangling project, where I cleaned and wrangled the N
 🔗 [View Project on Kaggle Notebook](https://www.kaggle.com/code/jedidahwavinya/netflix-figures) 
 
 💡 *Being my first data wrangling project, this was the perfect introduction to turning messy, raw datasets into clean, structured, and analysis-ready data.*  
+
+---
+
+🔙 [**Jump Back to Projects Categories**](/projects.md)
+
+---
