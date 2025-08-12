@@ -72,6 +72,23 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - 🎥 [YouTube Reference](https://youtu.be/MSBY28IJ47U)  
 
 ---
+## 🤖 Project #4 – Wine Dataset Model Comparison
+
+**Overview:**  
+Classified the **Wine dataset** using six models—Logistic Regression, Decision Tree, Random Forest, KNN, Naive Bayes, and SVM—and compared their performance.
+
+**Tasks:**  
+- Data exploration & visualization  
+- Model training & evaluation (accuracy, precision, recall, F1-score)  
+- Confusion matrix analysis to interpret results  
+
+**Tools:**  
+Python, Scikit-learn, Pandas, Matplotlib, Seaborn  
+
+📂 **Colab Notebook:**  
+[▶ Open in Google Colab](https://colab.research.google.com/drive/1MW8CyaOXY-e2IAqLv1cNeHTXcB3DmLNS?usp=sharing) 
+
+---
 
 🔙 [**Back to Projects Categories**](/projects.md)
 
