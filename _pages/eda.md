@@ -30,4 +30,4 @@ My **first** Exploratory Data Analysis project, exploring the famous Titanic dat
 
 ---
 
-🔙 [**Back to Projects Categories**](../projects.md)
+🔙 [**Back to Projects Categories**](/projects.md)
