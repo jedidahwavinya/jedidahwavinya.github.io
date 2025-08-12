@@ -33,6 +33,7 @@ This was my **first** hands-on web scraping project, where I set out to build a 
 | ...                 | ...  | ...  | ...    | ...       | ...   | ...       | ...           | ...   |
 
 📂 **Colab Notebook:**  
-[▶ Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)  
+[▶ Open in Google Colab](https://colab.research.google.com/drive/1MkBh0lAY3_n9aZcyuKesQRCM3gIt3INr?usp=sharing)
+
 
 💡 *Being my first web scraping project, this one holds a special place — it was where I learned how to navigate complex HTML structures, automate data extraction, and prepare results for real-world use.*  
