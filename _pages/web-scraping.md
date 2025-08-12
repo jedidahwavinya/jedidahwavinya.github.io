@@ -40,3 +40,8 @@ This was my **first** hands-on web scraping project, where I set out to build a 
 
 ---
 
+🔙 [**Jump Back to Projects Categories**](/projects.md)
+
+
+---
+
