@@ -4,9 +4,8 @@ title: "Web scraping"
 permalink: /web-scraping/
 author_profile: true
 ---
----
 
-## 🕸️ Web Scraping Project #1 – "Scrape This Site" Forms Page
+## 🕸️ Web Scraping Project #1 – "Scrape Site" Forms Page
 
 **Overview:**  
 This was my **first** hands-on web scraping project, where I set out to build a Python-based solution capable of **navigating a webpage**, **extracting structured table data**, and saving it into a clean, analysis-ready spreadsheet.  
