@@ -31,5 +31,28 @@ Provide a **centralized view** of hotel performance, occupancy rates, and revenu
 🔗 [View Project on Drive](https://drive.google.com/file/d/1U7hRPGJVLRrHJ1Wx5tkd4o9P5e1FIXva/view?usp=sharing)
 
 ---
+## 📊 Power BI Project #2: Data Professional Survey Breakdown 
+
+In this project, I built an **interactive Power BI dashboard/ Survey Breakdown** using real-world survey data.  
+The dataset contains columns such as:  
+- 👩‍💻 Favourite Programming Language
+- 📈 Current Yearly Salary
+- 📝 Which Title best Fits current Role
+- 💰 Average Salary  
+- 🌍 What Industry do you work in?   
+
+### 🔍 Key Outcomes
+- Explored how developers’ **favourite programming languages** relate to their **average salaries**.  
+- Cleaned, transformed, and modeled the data in **Power BI Desktop**.  
+- Designed interactive visualizations of the dashboard for insights sharing.  
+
+### 📂 Repository & Files
+- 📝 [Project Repository](https://github.com/jedidahwavinya/PowerBi-Projects)
+- 📑 [Download the Power BI File (.pbix)](https://github.com/jedidahwavinya/PowerBi-Projects/blob/main/Professional%20Survey%20dashboard.pbix)
+
+### 🎥 Reference
+This project was inspired by a tutorial from [YouTube](https://youtu.be/pixlHHe_lNQ).  
+
+---
 
 🔙 [**Back to Projects Categories**](/projects.md)
