@@ -66,6 +66,38 @@ Python, BeautifulSoup, Requests, Pandas
 📂 **Colab Notebook:**  
 [▶ Open in Google Colab](https://colab.research.google.com/drive/1lF3hQ3bzoS6ymfLodDtCCjDWNG_8_hlN?usp=sharing) 
 
+
+### 🕸️ Web Scraping Project #3 – NFL Teams Stats Data  
+**Permalink**
+
+**Overview:**  
+Scraped detailed **team statistics data** from the **NFL official website** to analyze team performance metrics for the current season.
+
+**Target URL:**  
+NFL – Teams Statistics Page  
+
+**Data Extracted:**  
+- Team Name  
+- Wins  
+- Losses  
+- Points Scored  
+- Points Allowed  
+- Passing Yards  
+- Rushing Yards  
+- Turnovers  
+
+**Key Tasks:**  
+- Sent HTTP requests to retrieve the webpage content using **Requests**.  
+- Parsed and extracted relevant statistics using **BeautifulSoup**.  
+- Cleaned and organized the dataset into a structured format with **Pandas**.  
+- Exported the final dataset to **CSV** for further visualization and analysis.  
+
+**Tools:**  
+Python, Requests, BeautifulSoup, Pandas  
+
+📂 **Colab Notebook:**  
+▶ [Open in Google Colab](https://colab.research.google.com/drive/1stQ0EJB_Eq4_Fdvv1jFCgtvsPPafgZf9?usp=sharing) – View my third project where I scraped and analyzed team stats data from the NFL website.
+
 ---
 
 🔙 [**Jump Back to Projects Categories**](/projects.md)
