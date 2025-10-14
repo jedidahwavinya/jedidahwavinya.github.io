@@ -102,6 +102,34 @@ Python, Requests, BeautifulSoup, Pandas
 
 ---
 
+# 🗞️ Web Scraping Project #4 – Global News Aggregator
+
+---
+
+## 📘 Overview
+With so many different news channels popping up, it has become increasingly difficult to keep track of all kinds of news that highlight relevant happenings worldwide.  
+This project aims to build a **customized one-stop solution** that scrapes and consolidates the latest global news from multiple trusted sources into one central platform.
+
+---
+
+## 🎯 Objective
+To collect, clean, and organize global news data from various news websites using **web scraping** techniques and display them in a unified format for analysis or personalized viewing.
+
+---
+
+## 🌐 Target News Sources
+You can customize your preferred websites or RSS feeds, such as:
+- [BBC News](https://www.bbc.com/news)
+- [Reuters](https://www.reuters.com)
+- [The Guardian](https://www.theguardian.com)
+- [Al Jazeera](https://www.aljazeera.com)
+- [CNN](https://edition.cnn.com)
+
+---
+!pip install newspaper3k feedparser beautifulsoup4 requests lxml python-dateutil tqdm
+
+---
+
 🔙 [**Jump Back to Projects Categories**](/projects.md)
 
 ---
