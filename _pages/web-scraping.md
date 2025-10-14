@@ -38,6 +38,8 @@ This was my **first** hands-on web scraping project, where I set out to build a 
 
 💡 *Being my first web scraping project, this one holds a special place — it was where I learned how to navigate complex HTML structures, automate data extraction, and prepare results for real-world use.*  
 
+---
+
 ## 🕸️ Web Scraping Project #2 – Largest U.S. Companies by Revenue
 
 **Overview:**  
@@ -65,6 +67,8 @@ Python, BeautifulSoup, Requests, Pandas
 
 📂 **Colab Notebook:**  
 [▶ Open in Google Colab](https://colab.research.google.com/drive/1lF3hQ3bzoS6ymfLodDtCCjDWNG_8_hlN?usp=sharing) 
+
+---
 
 
 ### 🕸️ Web Scraping Project #3 – NFL Teams Stats Data  
