@@ -70,9 +70,7 @@ Python, BeautifulSoup, Requests, Pandas
 
 ---
 
-
 ### 🕸️ Web Scraping Project #3 – NFL Teams Stats Data  
-**Permalink**
 
 **Overview:**  
 Scraped detailed **team statistics data** from the **NFL official website** to analyze team performance metrics for the current season.
