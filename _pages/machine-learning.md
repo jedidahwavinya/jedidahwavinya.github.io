@@ -89,6 +89,20 @@ Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 [▶ Open in Google Colab](https://colab.research.google.com/drive/1MW8CyaOXY-e2IAqLv1cNeHTXcB3DmLNS?usp=sharing) 
 
 ---
+## 🤖 Project #5 Diabetes Prediction Model🩺💻
+
+## Project Overview
+The **Diabetes Prediction Model** is a machine learning project aimed at predicting whether an individual has diabetes based on health metrics such as blood glucose levels, BMI, age, and other medical features. This project demonstrates the end-to-end process of a machine learning workflow and demonstrates the application of predictive analytics in healthcare.
+
+## Dataset
+- The dataset used in this project is publicly available from the **[Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)** on Kaggle.
+- It contains 768 records with 8 clinical features and a binary target indicating the presence of diabetes.
+
+## Colab Notebook
+You can explore the full code and workflow in the Google Colab notebook here:  
+[**Open in Colab**](https://colab.research.google.com/drive/1Par302Z700HCluzy4uvdl2lC8vzWTUIv?usp=sharing)
+
+---
 
 🔙 [**Back to Projects Categories**](/projects.md)
 
