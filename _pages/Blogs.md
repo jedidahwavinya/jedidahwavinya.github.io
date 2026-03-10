@@ -27,7 +27,7 @@ Hey there! 👋 Here’s a collection of my latest posts. Click any title to div
    *Category:* Workflow Optimization  
    *Why Read:* See how automation can turn boring tasks into **invisible helpers** that work while you sleep.  
 
-4. 🧩 [Mastering Google Sheets for Business Intelligence](blogs/google-sheets-dashboard.md)  
+4. 🧩 [Mastering Google Sheets for Business Intelligence](/google-sheets-dashboard.md)  
    *Category:* Data Visualization / BI  
    *Why Read:* Transform messy spreadsheets into dashboards that actually make sense.  
 
