@@ -15,7 +15,7 @@ Hey there! 👋 Here’s a collection of my latest posts. Click any title to div
 
 ✨ **Click a title and get inspired!**  
 
-1. 🎯 [The Invisible Consultant: Building a Zero-Touch Lead Tracking Pipeline](/invisible-consultant.md)  
+1. 🎯 [The "Manual Tax" on Growth](/invisible-consultant.md)  
    *Category:* Automation / ICT Strategy / Workflow Optimization  
    *Why Read:* Discover how I helped a client save **5 hours a week** while making their data magically organize itself.  
 
