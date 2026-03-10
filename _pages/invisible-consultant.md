@@ -1,3 +1,4 @@
+# The Invisible Consultant: Building a Zero-Touch Lead Tracking Pipeline
 Many businesses believe their biggest bottleneck is **lead generation**. In reality, it’s often **lead management**.  
 
 I recently worked with a client who was successfully booking calls via **Calendly** but "losing" the data the moment the call ended. There was no central source of truth to see who showed up, who converted, or where the pipeline was stalling.  
