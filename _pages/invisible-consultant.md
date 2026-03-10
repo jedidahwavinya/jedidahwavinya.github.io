@@ -40,7 +40,7 @@ I designed the pipeline to follow a logical **"If-This-Then-That"** flow:
 4. **The Dashboard:**  
    Those rows are converted into a **visual dashboard**—suddenly, "data" became "direction."
 
-> 💡 **Design Tip:** Consider a clean flowchart in Canva showing `Calendly → Zapier → Google Sheets → Dashboard`. Minimalist, intuitive, and easy to read.
+> 💡 **Quote:** " For every minute spent in organizing, an hour is earned." ~ Benjamin Franklin. 
 
 ---
 
