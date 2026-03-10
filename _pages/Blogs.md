@@ -23,7 +23,7 @@ Hey there! 👋 Here’s a collection of my latest posts. Click any title to div
    *Category:* Data Science  
    *Why Read:* Learn regression in plain English, with examples that make sense for any newbie or pro.  
 
-3. ⚡ [Automation in Action: Saving 5 Hours a Week with Smart Workflows](blogs/automation-workflow.md)  
+3. ⚡ [Automation in Action: Saving 5 Hours a Week with Smart Workflows](/automation-workflow.md)  
    *Category:* Workflow Optimization  
    *Why Read:* See how automation can turn boring tasks into **invisible helpers** that work while you sleep.  
 
