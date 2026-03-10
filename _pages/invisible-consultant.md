@@ -12,7 +12,7 @@ They were paying a **"manual tax"**—hours spent copying data into spreadsheets
 
 ---
 
-## 🏗 The Architecture: From Booking to Business Intelligence
+## The Architecture: From Booking to Business Intelligence
 
 The goal was simple: **Total Visibility**.  
 
@@ -26,7 +26,7 @@ We needed a system that tracked a client’s lifecycle **from the first click to
 
 ---
 
-## 🔄 The Workflow Logic
+## The Workflow Logic
 
 I designed the pipeline to follow a logical **"If-This-Then-That"** flow:
 
@@ -43,29 +43,29 @@ I designed the pipeline to follow a logical **"If-This-Then-That"** flow:
 4. **The Dashboard:**  
    Those rows are converted into a **visual dashboard**—suddenly, "data" became "direction."
 
-> 💡 **Quote:** " For every minute spent in organizing, an hour is earned." ~ Benjamin Franklin. 
+>  **Quote:** " For every minute spent in organizing, an hour is earned." ~ Benjamin Franklin. 
 
 ---
 
-## ⚡ Why This Matters (The "ICT" Perspective)
+##  Why This Matters (The "ICT" Perspective)
 
 As an IT personel, my job isn’t just to "connect apps." It’s to **ensure data integrity**. By automating this pipeline:
 
-- ✅ **Human Error is Eliminated:** No more misspelled names or forgotten entries.  
-- ✅ **Time is Reclaimed:** The client saved roughly **5 hours of admin work per week**.  
-- ✅ **Decision Power:** The client can now see their **conversion rate in real-time**.  
+- **Human Error is Eliminated:** No more misspelled names or forgotten entries.  
+- **Time is Reclaimed:** The client saved roughly **5 hours of admin work per week**.  
+- **Decision Power:** The client can now see their **conversion rate in real-time**.  
 
 **The Invisible Result:** The best automation is the kind you **forget is even there**. It works in the background so the business owner can focus on the human side of their work.
 
 ---
 
-## 📚 Lessons Learned
+## Lessons Learned
 
 The most complex part isn’t the code—it’s the **edge cases**. Handling **rescheduled** or **canceled** meetings within an automated flow requires a deep understanding of how different APIs communicate.
 
 ---
 
-## 🎨 Before & After Table:
+## Before & After Table:
 
 | Manual Tracking          | Automated Tracking         |
 |--------------------------|---------------------------|
@@ -74,9 +74,9 @@ The most complex part isn’t the code—it’s the **edge cases**. Handling **r
 | Human errors             | Eliminated errors         |
 | Hard to measure ROI      | Clear ROI visualization   |
 
-> 💡 " Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+> " Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
 
 ---
 
-**🚀 Remember**  
+** Remember**  
 Automation isn’t just tech wizardry—it’s about **saving time, reducing errors, and giving businesses the power to make informed decisions**. The invisible consultant isn’t seen, but their impact is felt in every smooth-running process.
