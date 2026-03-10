@@ -63,9 +63,6 @@ Built a **Customer Churn Prediction model** using **Logistic Regression** to ide
 - Trained & evaluated Logistic Regression model.  
 - Measured performance with accuracy, precision, recall, and ROC-AUC.  
 
-**Tools:**  
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-
 **Links:**  
 - 📂 [Google Colab Notebook](https://colab.research.google.com/drive/1-GBa-LyjiyOL1Xc2kOnDyxEu0Kttz8uL?usp=sharing)  
 - 📊 [Kaggle Notebook](https://www.kaggle.com/code/jedidahmusyoka/customer-churn-prediction)  
@@ -101,6 +98,23 @@ The **Diabetes Prediction Model** is a machine learning project aimed at predict
 ## Colab Notebook
 You can explore the full code and workflow in the Google Colab notebook here:  
 [**Open in Colab**](https://colab.research.google.com/drive/1Par302Z700HCluzy4uvdl2lC8vzWTUIv?usp=sharing)
+
+---
+## 🤖 Project #6 🥑 Avocado Price Prediction
+
+Predict the **average price of avocados** using historical sales data. This project uses **machine learning** to forecast prices based on region, type, and sales volume.
+
+## Project Overview
+- Goal: Predict avocado prices using historical data
+- Methods: Data cleaning, EDA, feature engineering, regression models (Linear, Decision Tree, Random Forest)
+- Outcome: Random Forest performed best
+
+## Dataset
+- Columns: Date, AveragePrice, type, year, region, Total Volume, PLU types, Total Bags, bag sizes
+- Source: [Avocado Dataset](https://raw.githubusercontent.com/rajeevratan84/datasets/master/avocado.csv)
+
+📂 **Colab Notebook:**  
+[▶ Open in Google Colab](https://colab.research.google.com/drive/1tL1OCTyT_MAti1IUX0ALHOO15JYNnDQ0?usp=sharing)
 
 ---
 
