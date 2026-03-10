@@ -1,14 +1,4 @@
----
-layout: single
-title: "Building a Zero-Touch Lead Tracking Pipeline: Linkng Calendly to Google forms"
-permalink: /invisible-consultant/
-author_profile: true
----
-
 # The Invisible Consultant: Building a Zero-Touch Lead Tracking Pipeline
-
-**Category:** Automation / ICT Strategy / Workflow Optimization  
-**The Hook:** The "Manual Tax" on Growth
 
 ---
 
