@@ -49,7 +49,7 @@ I designed the pipeline to follow a logical **"If-This-Then-That"** flow:
 
 ## ⚡ Why This Matters (The "ICT" Perspective)
 
-As a consultant, my job isn’t just to "connect apps." It’s to **ensure data integrity**. By automating this pipeline:
+As an IT personel, my job isn’t just to "connect apps." It’s to **ensure data integrity**. By automating this pipeline:
 
 - ✅ **Human Error is Eliminated:** No more misspelled names or forgotten entries.  
 - ✅ **Time is Reclaimed:** The client saved roughly **5 hours of admin work per week**.  
