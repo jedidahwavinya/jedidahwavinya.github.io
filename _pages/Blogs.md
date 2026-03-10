@@ -19,7 +19,7 @@ Hey there! 👋 Here’s a collection of my latest posts. Click any title to div
    *Category:* Automation / ICT Strategy / Workflow Optimization  
    *Why Read:* Discover how I helped a client save **5 hours a week** while making their data magically organize itself.  
 
-2. 📊 [Data Science for Everyone: Demystifying Regression Models](blogs/data-science-regression.md)  
+2. 📊 [Data Science for Everyone: Demystifying Regression Models](/data-science-regression.md)  
    *Category:* Data Science  
    *Why Read:* Learn regression in plain English, with examples that make sense for any newbie or pro.  
 
