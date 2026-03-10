@@ -5,18 +5,31 @@ layout: single
 author_profile: true
 ---
 
-<div style="text-align: center; padding: 50px;">
+# 🚀 Welcome to My Blog Adventure!  
 
-  <h1 style="font-size: 3rem; color: #4b0082;">🚧 Blog Coming Soon! 🚧</h1>
-  
-  <p style="font-size: 1.2rem; color: #555;">
-    I'm working on sharing exciting content about data science, tech tutorials, and my creative journey. Stay tuned!
-  </p>
+Hey there! 👋 Here’s a collection of my latest posts. Click any title to dive in and explore the stories behind the workflows, automations, and data adventures.  
 
-  <button onclick="alert('Thanks for checking in! 🚀 Blogs will be up soon.')" 
-          style="padding: 12px 25px; font-size: 1rem; background-color: #6a0dad; color: white; border: none; border-radius: 8px; cursor: pointer; margin-top: 20px;">
-    Click Me for a Sneak Peek!
-  </button>
+---
 
+## 🏆 Featured Blogs
 
-</div>
+✨ **Click a title and get inspired!**  
+
+1. 🎯 [The Invisible Consultant: Building a Zero-Touch Lead Tracking Pipeline](blogs/invisible-consultant.md)  
+   *Category:* Automation / ICT Strategy / Workflow Optimization  
+   *Why Read:* Discover how I helped a client save **5 hours a week** while making their data magically organize itself.  
+
+2. 📊 [Data Science for Everyone: Demystifying Regression Models](blogs/data-science-regression.md)  
+   *Category:* Data Science  
+   *Why Read:* Learn regression in plain English, with examples that make sense for any newbie or pro.  
+
+3. ⚡ [Automation in Action: Saving 5 Hours a Week with Smart Workflows](blogs/automation-workflow.md)  
+   *Category:* Workflow Optimization  
+   *Why Read:* See how automation can turn boring tasks into **invisible helpers** that work while you sleep.  
+
+4. 🧩 [Mastering Google Sheets for Business Intelligence](blogs/google-sheets-dashboard.md)  
+   *Category:* Data Visualization / BI  
+   *Why Read:* Transform messy spreadsheets into dashboards that actually make sense.  
+
+---
+**👀 TL;DR:** Click a blog, explore the world of automation, data, and smart workflows, and let your curiosity run wild! 🌟
