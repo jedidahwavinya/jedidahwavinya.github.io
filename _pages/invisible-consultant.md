@@ -1,8 +1,6 @@
----
-## The Invisible Consultant: Building a Zero-Touch Lead Tracking Pipeline
+### The Invisible Consultant: Building a Zero-Touch Lead Tracking Pipeline
 ---
 **📅 Date:** March 10, 2026  
-
 ---
 Many businesses believe their biggest bottleneck is **lead generation**. In reality, it’s often **lead management**.  
 
