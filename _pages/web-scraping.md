@@ -40,7 +40,7 @@ This was my **first** hands-on web scraping project, where I set out to build a 
 
 ---
 
-## 🕸️ Web Scraping Project #2 – Largest U.S. Companies by Revenue
+## Web Scraping Project #2 – Largest U.S. Companies by Revenue
 
 **Overview:**  
 Scraped tabular data from **Wikipedia**’s *List of largest companies in the United States by revenue* to collect business information for analysis.
@@ -70,7 +70,7 @@ Python, BeautifulSoup, Requests, Pandas
 
 ---
 
-### 🕸️ Web Scraping Project #3 – NFL Teams Stats Data  
+### Web Scraping Project #3 – NFL Teams Stats Data  
 
 **Overview:**  
 Scraped detailed **team statistics data** from the **NFL official website** to analyze team performance metrics for the current season.
@@ -102,7 +102,7 @@ Python, Requests, BeautifulSoup, Pandas
 
 ---
 
-# 🗞️ Web Scraping Project #4 – Global News Aggregator
+# Web Scraping Project #4 – Global News Aggregator
 
 ---
 
@@ -124,9 +124,68 @@ You can customize your preferred websites or RSS feeds, such as:
 - [The Guardian](https://www.theguardian.com)
 - [Al Jazeera](https://www.aljazeera.com)
 - [CNN](https://edition.cnn.com)
+  
+---
+## Web Scraping Project #5 Travel Demand Analysis using Booking.com Data
+
+> Turning travel data into insights
+
+This project explores **hotel market demand and pricing trends** by scraping real hotel data from **Booking.com** and analyzing patterns in **pricing, ratings, amenities, and location**.
+
+The goal of this project is to build a **travel demand dataset** that can later be used for **tourism analytics, price prediction models, and travel recommendation systems**.
 
 ---
-!pip install newspaper3k feedparser beautifulsoup4 requests lxml python-dateutil tqdm
+
+# 🚀 Project Overview
+
+Hotels adjust their prices based on **demand, location, amenities, and reviews**.  
+
+In this project, we scrape hotel listings from Booking.com and create a structured dataset containing valuable features such as:
+
+- Hotel Name
+- Price
+- Rating
+- Review Count
+- Location
+- Latitude & Longitude
+- Amenities
+- Hotel URL
+
+The final result is a **clean dataset exported as a CSV file** ready for data analysis and machine learning.
+
+---
+
+# 🛠 Tech Stack
+
+This project uses the following tools:
+
+| Tool | Purpose |
+|-----|------|
+| **Python** | Main programming language |
+| **Selenium** | Automating browser interaction |
+| **BeautifulSoup** | Parsing HTML |
+| **Pandas** | Data cleaning & dataset creation |
+| **Google Colab / Jupyter** | Development environment |
+
+---
+
+# 🌟 Possible Use Cases
+
+This dataset can power many data science projects such as:
+
+📊 **Hotel Price Prediction**  
+📍 **Travel Demand Analysis**  
+🧭 **Tourism Market Insights**  
+🤖 **Hotel Recommendation Systems**  
+🗺 **Location-based Travel Analytics**
+
+---
+# 💻 Notebook
+
+You can view the full scraping process and code here:
+
+📓 **Google Colab Notebook**  
+👉 [Open Notebook](https://colab.research.google.com/drive/1RWuOOTW4D13gx8rdWHEnf5d9P8fvrSlF?usp=sharing)
 
 ---
 
