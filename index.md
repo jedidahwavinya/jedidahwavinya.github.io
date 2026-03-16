@@ -13,7 +13,7 @@ Nairobi, Kenya
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 ICT Specialist with proven expertise in technical support, system administration, and software applications management. Skilled in data
 analysis, digital marketing, and graphics design, with a strong ability to transform complex information into actionable insights and
@@ -24,7 +24,7 @@ problem solver and fast learner with hands-on experience in software support, da
 committed to delivering innovation, efficiency, and value.
 ---
 
-## 💼 Work Experience
+##  Work Experience
 **ICT SPECIALIST**
 _JOHNBOW TOURS AND TRAVEL_ - Nairobi
 _March 2026 - Presesnt_
@@ -70,7 +70,7 @@ _APRIL 2021 – FEBRUARY 2022_
 - Version control: using git and GitHub for collaboration, code reviews, and version 
 tracking. 
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science in Mathematics and Computer Science**  
 _Kenyatta University_, Nairobi, Kenya  
@@ -81,7 +81,7 @@ _SEPTEMBER 2019- DECEMBER 2023_
 ---
 
 
-## 🧰 Skills
+##  Skills
 
 - Programming: Python, HTML, CSS, Java, JavaScript  
 - Data Analysis: Power BI, Excel, Pandas, Machine learning
@@ -93,7 +93,7 @@ _SEPTEMBER 2019- DECEMBER 2023_
 
 ---
 
-## 🧪 Projects
+##  Projects
 
 Find all projects in this website: 
 🔗 [Portfolio Projects](_pages/projects.md)
@@ -110,7 +110,7 @@ Find all projects in this website:
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 - English 
 - Kiswahili 
