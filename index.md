@@ -15,15 +15,30 @@ Nairobi, Kenya
 
 ## 🎯 Career Objective
 
-Motivated and versatile ICT professional seeking to grow a career at the intersection of data science, digital innovation, and entrepreneurship. I aim to apply my skills in data analysis, marketing, and software technologies to solve real-world challenges, support decision-making, and drive business growth. With a passion for continuous learning and a creative mindset, I am eager to contribute to impactful tech projects and explore opportunities that build toward a future in tech leadership and entrepreneurship.
-
+ICT Specialist with proven expertise in technical support, system administration, and software applications management. Skilled in data
+analysis, digital marketing, and graphics design, with a strong ability to transform complex information into actionable insights and
+creative solutions that drive business growth. Adept at maintaining operating systems, troubleshooting IT infrastructure, and providing
+end-to-end user support to ensure seamless business operations. Known for blending technical proficiency with marketing acumen,
+leveraging ICT tools to optimize digital campaigns, enhance customer engagement, and deliver measurable ROI. A detail-oriented
+problem solver and fast learner with hands-on experience in software support, data visualization, and ICT project implementation,
+committed to delivering innovation, efficiency, and value.
 ---
 
 ## 💼 Work Experience
+**ICT SPECIALIST**
+_JOHNBOW TOURS AND TRAVEL_ - Nairobi
+_March 2026 - Presesnt_
+- CRM Management and Optimization: Clean and organize existing customer data,Track the lead journey from inquiry → booking,Set up automated follow-up emails and WhatsApp messages.
+- Data Analysis for Marketing Decisions.
+- Website Optimization (SEO & Performance).
+- Digital Marketing Technology Support: Track performance of Instagram, Facebook, TikTok, Pinterest campaigns
+- Email & WhatsApp Marketing Automation
+- System Integration: Ensure all platforms communicate smoothly.
 
-ICT Assistant 
+---
+**ICT Assistant**
 _Kenya Cultural Center_ – Nairobi  
-_Jan 2025 – Present_  
+_Jan 2025 – August 2025_  
 - Installing, updating, and maintaining the operating systems and core applications.
 - Providing technical support for software applications used within the organization.
 - Diagnosing and resolving technical problems.
@@ -68,11 +83,12 @@ _SEPTEMBER 2019- DECEMBER 2023_
 
 ## 🧰 Skills
 
-- Programming: Python, HTML, CSS, JavaScript  
+- Programming: Python, HTML, CSS, Java, JavaScript  
 - Data Analysis: Power BI, Excel, Pandas, Machine learning
-- CMS: WordPress, GitHub Pages  
+- CMS: WordPress, GitHub Pages
+- CRM: Zoho
 - Version Control: Git, GitHub  
-- Operating Systems: Windows, Linux
+- Operating Systems: Windows
 - Soft skills: Communication, problem solving, Time management and team collaboration
 
 ---
