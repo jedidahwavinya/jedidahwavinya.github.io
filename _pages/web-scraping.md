@@ -188,6 +188,28 @@ You can view the full scraping process and code here:
 👉 [Open Notebook](https://colab.research.google.com/drive/1RWuOOTW4D13gx8rdWHEnf5d9P8fvrSlF?usp=sharing)
 
 ---
+##  Web Scraping Project #6 : Book Price Intelligence Scraper
+
+This project is a Python web scraper that extracts book data from the practice website https://books.toscrape.com and converts it into a structured dataset for analysis.
+
+The scraper collects information such as **book title, price, rating, availability, and product URL** across **50 pages**, resulting in a dataset of **1000 books**.
+
+## 📊 Dataset Features
+- Title  
+- Price  
+- Rating (1–5 stars)  
+- Availability  
+- Product URL  
+
+# 💻 Notebook
+
+You can view the full scraping process and code here:
+
+📓 **Google Colab Notebook**  
+👉 [Open Notebook](https://colab.research.google.com/drive/1-cWfZ_Z6rnW3VAJvSeDtsMDG_TOvwPGZ?usp=sharing)
+
+---
+
 
 🔙 [**Jump Back to Projects Categories**](/projects.md)
 
