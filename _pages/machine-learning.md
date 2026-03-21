@@ -5,7 +5,7 @@ permalink: /machine-learning/
 author_profile: true
 
 ---
-## 🤖 Project #1 – Demand Prediction of Driver Availability (Multistep Time Series)
+## Project #1 – Demand Prediction of Driver Availability (Multistep Time Series)
 
 **Overview:**  
 My **first** machine learning project, where I **simulated a dataset** (generated in Python) to predict driver availability in specific areas using **multistep time series analysis**.
@@ -32,7 +32,7 @@ Helps ride-hailing services (e.g., Faras, Uber, Bolt) and logistics companies op
 [▶ Open in Google Colab](https://colab.research.google.com/drive/1gapdnxljjVQrJDZBp5TzMZtiH9pb-TR3?usp=sharing))  
 
 ---
-## 📊 Project #2 - Linear Regression Model – Data Science Mini Project
+## Project #2 - Linear Regression Model – Data Science Mini Project
 
 This project explores the basics of **linear regression** using Python and Scikit-learn.
 It demonstrates the complete data science workflow:
@@ -49,13 +49,13 @@ This hands-on project helped me strengthen my understanding of supervised machin
 🔗 [View the full project on Google Colab](https://colab.research.google.com/drive/11NbsIoB2ro_nXrwWt6RF2ACv-FZ8aPml?usp=sharing)
 
 ---
-## 🤖 Project #3 – Customer Churn Prediction (Logistic Regression)
+## Project #3 – Customer Churn Prediction (Logistic Regression)
 
 **Overview:**  
 Built a **Customer Churn Prediction model** using **Logistic Regression** to identify customers likely to leave a subscription/service, enabling proactive retention strategies.
 
 **Dataset:**  
-- 📊 Source: Kaggle telecom churn dataset.  
+-  Source: Kaggle telecom churn dataset.  
 
 **Key Tasks:**  
 - Data preprocessing: handled missing values, encoded categorical features, and scaled numerical data.  
@@ -69,7 +69,7 @@ Built a **Customer Churn Prediction model** using **Logistic Regression** to ide
 - 🎥 [YouTube Reference](https://youtu.be/MSBY28IJ47U)  
 
 ---
-## 🤖 Project #4 – Wine Dataset Model Comparison
+## Project #4 – Wine Dataset Model Comparison
 
 **Overview:**  
 Classified the **Wine dataset** using six models—Logistic Regression, Decision Tree, Random Forest, KNN, Naive Bayes, and SVM—and compared their performance.
@@ -86,7 +86,7 @@ Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 [▶ Open in Google Colab](https://colab.research.google.com/drive/1MW8CyaOXY-e2IAqLv1cNeHTXcB3DmLNS?usp=sharing) 
 
 ---
-## 🤖 Project #5 Diabetes Prediction Model🩺💻
+##  Project #5 Diabetes Prediction Model
 
 ## Project Overview
 The **Diabetes Prediction Model** is a machine learning project aimed at predicting whether an individual has diabetes based on health metrics such as blood glucose levels, BMI, age, and other medical features. This project demonstrates the end-to-end process of a machine learning workflow and demonstrates the application of predictive analytics in healthcare.
@@ -100,7 +100,7 @@ You can explore the full code and workflow in the Google Colab notebook here:
 [**Open in Colab**](https://colab.research.google.com/drive/1Par302Z700HCluzy4uvdl2lC8vzWTUIv?usp=sharing)
 
 ---
-## 🤖 Project #6 🥑 Avocado Price Prediction
+## Project #6 Avocado Price Prediction
 
 Predict the **average price of avocados** using historical sales data. This project uses **machine learning** to forecast prices based on region, type, and sales volume.
 
@@ -117,6 +117,53 @@ Predict the **average price of avocados** using historical sales data. This proj
 [▶ Open in Google Colab](https://colab.research.google.com/drive/1tL1OCTyT_MAti1IUX0ALHOO15JYNnDQ0?usp=sharing)
 
 ---
+# Project #7 Heart Disease Prediction Model
+
+## Overview
+This project focuses on predicting the likelihood of heart disease using machine learning techniques. The model analyzes patient health data to identify patterns associated with cardiovascular risk.
+
+##  Dataset
+The dataset includes key medical attributes such as:
+- Age
+- Sex
+- Chest pain type
+- Blood pressure
+- Cholesterol levels
+- Maximum heart rate
+- Fasting blood sugar
+
+## ⚙️ Methodology
+- Data cleaning and preprocessing using **Pandas & NumPy**
+- Exploratory Data Analysis (EDA) with **Matplotlib & Seaborn**
+- Feature selection and scaling
+- Model building using:
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+  - K-Nearest Neighbors (KNN)
+- Model evaluation using accuracy, confusion matrix, and classification report
+
+## 📈 Results
+The models were compared based on performance metrics, with the best-performing model achieving strong accuracy in predicting heart disease risk.
+
+## 🚀 Tools & Technologies
+- Python
+- Google Colab (Jupyter Notebook)
+- Scikit-learn
+- Pandas, NumPy
+- Matplotlib, Seaborn
+
+## 🔗 Project Notebook
+👉 [View Full Notebook](https://colab.research.google.com/drive/1p_FaGjYjLhyThFLrQqDoQfuE3cGH4QaK?usp=sharing) 
+## 💡 Conclusion
+This project demonstrates how machine learning can support early detection of heart disease, enabling better decision-making in healthcare.
+
+---
+
+*Feel free to explore, fork, and contribute!*
+
+---
+
 
 🔙 [**Back to Projects Categories**](/projects.md)
 
